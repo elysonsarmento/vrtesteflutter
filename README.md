@@ -1,16 +1,24 @@
-# vrteste
 
-A new Flutter project.
+# Projeto Flutter
 
-## Getting Started
+Este projeto é um teste de seleção para a empresa VR.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Variáveis de Ambiente
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`ADRESS` 
+Seguido do endereço que está rodando a API nodejs.
+
+
+
+## Instalação
+
+Instale o projeto com npm
+
+```bash
+  flutter pub get
+  flutter run
+```
+    
